@@ -19,5 +19,5 @@ public class Person {
 	}
 
 /*  */
-	public static
+	// public static
 }
